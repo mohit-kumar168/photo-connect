@@ -22,7 +22,7 @@ body {
     }
   }
 
-  . animate-float-slow {
+  .animate-float-slow {
     animation: float 6s ease-in-out infinite;
   }
 
