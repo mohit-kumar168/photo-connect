@@ -1,6 +1,10 @@
+import CreatorCard from "../components/cards/CreatorCard"
+
 const Home = () => {
 	return (
-		<div>Home Page</div>
+		<div className="bg-gradient-to-br from-gray-50 to-gray-100">
+			<CreatorCard />
+		</div>
 	)
 }
 
