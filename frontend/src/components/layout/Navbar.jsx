@@ -72,7 +72,7 @@ const Navbar = () => {
 						</li>
 						<li>
 							<NavLink
-								to="/blog"
+								to="/blogs"
 								className={({ isActive }) =>
 									`text-gray-700 hover:text-gray-900 pb-1 border-b-2 transition-colors ${isActive
 										? 'border-gray-900 font-semibold'
